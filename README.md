@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at **[Notion Portfolio](https://www.notion.so/Shubham-Kudale-Resume-Portfolio-222651143f9b80449e2ce5a0a15c9d84?source=copy_link)**
 
-- 💬 Ask me about **Python, Pandas, SQL, Power BI, Tableau**
+- 💬 Ask me about **Python, Pandas, SQL, Power BI, Tableau and AWS Quicksight**
 
 - 📫 How to reach me **shubhamkudale0412@gmail.com**
 
