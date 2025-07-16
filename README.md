@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.</h3>
+<h3 align="center">Business Intelligence Professional with expertise in data visualization and reporting, query optimization, database design, and data modelling.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/005/607/176/non_2x/a-data-analyst-sits-at-work-in-front-of-a-computer-device-showing-statistics-and-graphs-in-front-of-him-flat-style-cartoon-illustration-free-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamksk&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamksk" /> </p>
