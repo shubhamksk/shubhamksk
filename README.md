@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at (https://www.notion.so/Shubham-Kudale-Resume-Portfolio-222651143f9b80449e2ce5a0a15c9d84?source=copy_link)
+- 👨‍💻 All of my projects are available at **https://www.notion.so/Shubham-Kudale-Resume-Portfolio-222651143f9b80449e2ce5a0a15c9d84?source=copy_link**
 
 - 💬 Ask me about **Python, Pandas, SQL, Power BI, Tableau**
 
