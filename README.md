@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Expertise in Business Analysis, Stakeholder Managemnt, Data visualization and Reporting, Query optimization, Database design, and Data modelling.</h3>
+<h3 align="center">Business Intelligence Professional with experience in building scalable data pipelines, transforming large-scale marketing datasets, and delivering real-time insights using Tableau, Snowflake SQL, and Alteryx. Proven track record of automating reporting workflows, improving data reliability, and enabling data-driven decision-making for 20+ stakeholders across media teams. Strong foundation in analytics and data engineering, with hands-on experience in data modeling, ETL processes, and cloud data warehousing (Snowflake)..</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/005/607/176/non_2x/a-data-analyst-sits-at-work-in-front-of-a-computer-device-showing-statistics-and-graphs-in-front-of-him-flat-style-cartoon-illustration-free-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamksk&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamksk" /> </p>
